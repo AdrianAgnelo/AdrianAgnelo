@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianagnelo&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagnelo&layout=donut)](https://github.com/adrianagnelo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagnelo&layout=donut&theme=dracula)](https://github.com/adrianagnelo/github-readme-stats)
 
 ## Tecnologias
 
